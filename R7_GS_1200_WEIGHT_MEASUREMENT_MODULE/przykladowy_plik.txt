@@ -1,0 +1,4 @@
+siema
+ten plik jest do usunięcia
+utworzyłem go tylko dlatego, że nie da się dodać pustego foldera
+pozdrawiam :)
